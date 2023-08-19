@@ -87,7 +87,7 @@ function timedCount() {
     }
     MN[i].style.backgroundColor = 'red'
   }
-  timeout = setTimeout(timedCount, 500);
+  timeout = setTimeout(timedCount, 2000);
 }
 
 
